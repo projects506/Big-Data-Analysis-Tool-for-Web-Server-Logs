@@ -53,7 +53,7 @@ This project focuses on analyzing over 35 million HTTP requests from a Poland-ba
 ## How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/project506/WebServerLogAnalysis.git
+   git clone https://github.com/projects506/Big-Data-Analysis-Tool-for-Web-Server-Logs.git
    ```
 2. Install dependencies:
    ```bash
