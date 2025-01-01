@@ -1,6 +1,3 @@
-Based on the detailed content from your report, here's a comprehensive README draft for your GitHub repository:
-
----
 
 # Web Server Log Analysis Project
 
@@ -77,6 +74,4 @@ This project focuses on analyzing over 35 million HTTP requests from a Poland-ba
 ## License
 This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if you need further adjustments or additions!
